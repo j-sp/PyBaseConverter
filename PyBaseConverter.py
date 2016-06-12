@@ -15,6 +15,11 @@
 ## You should have received a copy of the GNU General Public License
 ## along with PyBaseConverter.  If not, see <http://www.gnu.org/licenses/>.
 
+"""A base converter written in Python.
+
+This code can only convert from/to bases from 2-10.
+"""
+
 from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *
 import Number
