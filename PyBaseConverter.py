@@ -25,6 +25,11 @@ from PyQt5.QtWidgets import *
 import Number
 
 class Form(QWidget):
+    """ Class derived from QWidget to hold our top-level window.
+
+    Public methods:
+      To be filled
+    """
     def __init__(self, parent=None):
         super(Form, self).__init__(parent)
 
