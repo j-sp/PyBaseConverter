@@ -17,7 +17,7 @@
 
 """A base converter written in Python.
 
-The main purpose of this code was to test PyQt5.
+This code can only convert from/to bases from 2-10.
 """
 
 from PyQt5.QtCore import *
