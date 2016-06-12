@@ -35,7 +35,7 @@ class Form(QWidget):
         self.baseFromLine = QLineEdit()
         baseToLabel = QLabel("To Base:")
         self.baseToLine = QLineEdit()
-        self.submitButton = QPushButton("Go!")
+        self.submitButton = QPushButton("Convert!")
         self.resultLabel = QLabel("")
 
         vLayout1 = QVBoxLayout()
